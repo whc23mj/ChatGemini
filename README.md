@@ -8,7 +8,7 @@ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5
 
 ## 演示站点（需翻墙）
 
-[ChatGemini](https://ibcl.us/ChatGemini)
+[ChatGemini](https://gemini.hdhui.chat/)
 
 ## 讨论群组
 
